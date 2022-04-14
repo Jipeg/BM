@@ -1,0 +1,21 @@
+{
+  "name": "Boyer-Moore",
+  "version": "1.0.0",
+  "description": "Realization of classical Boyer-Moorre search algo in typescript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jipeg/BM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jipeg/BM/issues"
+  },
+  "homepage": "https://github.com/Jipeg/BM#readme"
+}
